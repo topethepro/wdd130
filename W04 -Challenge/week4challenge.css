@@ -1,0 +1,22 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: pink; 
+    }
+    h1 {
+        font-family:'Courier New', Courier, monospace;
+      font-size: 36px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    p.ol {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    img {
+      width: 300px;
+      margin: 20px auto;
+    }
+
+
